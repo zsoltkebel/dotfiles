@@ -5,9 +5,11 @@ tap "homebrew/core"
 
 # Brews (Packages)
 brew "bat"
+brew "git"
 
 # Casks (Applications)
 # cask "google-chrome"
+cask "gitkraken"
 cask "karabiner-elements"
 cask "visual-studio-code"
 
