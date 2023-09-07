@@ -25,6 +25,8 @@ brew "telnet"
 cask "gitkraken"
 # Keyboard customizer
 cask "karabiner-elements"
+# Tool to control external monitor brightness & volume
+cask "monitorcontrol"
 # Open-source code editor
 cask "visual-studio-code"
 vscode "aaron-bond.better-comments"
