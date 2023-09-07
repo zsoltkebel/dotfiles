@@ -1,19 +1,32 @@
-# Taps
 tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/core"
-
-# Brews (Packages)
+# Clone of cat(1) with syntax highlighting and Git integration
 brew "bat"
+# GitHub command-line tool
+brew "gh"
+# Distributed revision control system
 brew "git"
-
-# Casks (Applications)
-# cask "google-chrome"
+# Platform built on V8 to build network applications
+brew "node"
+# Interactive environments for writing and running code
+brew "jupyterlab"
+# C interface for Google's OS library for Machine Intelligence
+brew "libtensorflow"
+# Development kit for the Java programming language
+brew "openjdk"
+# Code formatter for JavaScript, CSS, JSON, GraphQL, Markdown, YAML
+brew "prettier"
+# Interpreted, interactive, object-oriented programming language
+brew "python@3.10"
+# User interface to the TELNET protocol
+brew "telnet"
+# Git client focusing on productivity
 cask "gitkraken"
+# Keyboard customizer
 cask "karabiner-elements"
+# Open-source code editor
 cask "visual-studio-code"
-
-# VS Code Extensions
 vscode "aaron-bond.better-comments"
 vscode "anseki.vscode-color"
 vscode "christian-kohler.npm-intellisense"
