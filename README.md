@@ -1,4 +1,3 @@
 # dotfiles
 
 # TODO
-- Install Homebrew
