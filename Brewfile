@@ -13,6 +13,8 @@ brew "node"
 brew "jupyterlab"
 # C interface for Google's OS library for Machine Intelligence
 brew "libtensorflow"
+# Mac App Store command-line interface
+brew "mas"
 # Development kit for the Java programming language
 brew "openjdk"
 # Code formatter for JavaScript, CSS, JSON, GraphQL, Markdown, YAML
