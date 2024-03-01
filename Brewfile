@@ -29,6 +29,8 @@ cask "android-studio"
 cask "google-chrome"
 # Client for the Google Drive storage service
 cask "google-drive"
+# Full TeX Live distribution without GUI applications
+cask "mactex-no-gui"
 # Tool to control external monitor brightness & volume
 cask "monitorcontrol"
 # Cloud storage client
