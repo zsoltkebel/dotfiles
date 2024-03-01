@@ -23,6 +23,8 @@ brew "prettier"
 brew "python@3.10"
 # User interface to the TELNET protocol
 brew "telnet"
+# Tools for building Android applications
+cask "android-studio"
 # Web browser
 cask "google-chrome"
 # Client for the Google Drive storage service
